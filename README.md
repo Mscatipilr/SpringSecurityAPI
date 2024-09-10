@@ -46,7 +46,7 @@ To run the project locally, follow these steps:
 
 1. **Clone the repository** (or download the source code):
    ```bash
-   git clone https://github.com/your-repo/spring-security-api.git
+   git clone https://github.com/Mscatipilr/SpringSecurityAPI
    cd spring-security-api
 
 ## Testing the APIs
